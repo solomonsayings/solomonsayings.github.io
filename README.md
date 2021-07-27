@@ -7,6 +7,6 @@
         Only for test purposes, not to be used for anything else
     </h2>
     <div>
-        This is to try few things out, for now. If you want to check this out on your own do not hesitate to visit : <a href=solomonsayings.github.io, target_?=blank></a>
+        This is to try few things out, for now. If you want to check this out on your own do not hesitate to visit : <a href=solomonsayings.github.io, target_?=blank> </a>
     </div>
 </html>
